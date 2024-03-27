@@ -1,0 +1,4 @@
+D:\MOD_6_1302223136\mod6_1302223136\mod6_1302223136\obj\Debug\net8.0\mod6_1302223136.GeneratedMSBuildEditorConfig.editorconfig
+D:\MOD_6_1302223136\mod6_1302223136\mod6_1302223136\obj\Debug\net8.0\mod6_1302223136.AssemblyInfoInputs.cache
+D:\MOD_6_1302223136\mod6_1302223136\mod6_1302223136\obj\Debug\net8.0\mod6_1302223136.AssemblyInfo.cs
+D:\MOD_6_1302223136\mod6_1302223136\mod6_1302223136\obj\Debug\net8.0\mod6_1302223136.csproj.CoreCompileInputs.cache
